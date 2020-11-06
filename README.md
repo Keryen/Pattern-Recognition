@@ -1,4 +1,4 @@
-"# Pattern-Recognition" 
+# Pattern-Recognition
 
 In this project there are different algorithims of pattern recognition, as the Euclidean distance classifier, the Bayesian statistic classifier or a complete OCR (Optical Character Recognition). 
 
